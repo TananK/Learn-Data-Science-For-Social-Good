@@ -1,4 +1,4 @@
-# datasciencecompetitions
+# Data Science Competitions group at ChiHackNight
 Main repo for Chicago Learn Data Science from Competitions
 
 ### About the group
