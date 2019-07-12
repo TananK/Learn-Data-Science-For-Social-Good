@@ -1,4 +1,4 @@
-# Data Science Competitions group at ChiHackNight
+# Learn Data Science for Social Good group at ChiHackNight
 Main repo for Chicago Learn Data Science from Competitions
 
 ### About the group
