@@ -26,3 +26,15 @@ Not decided yet
 ### Chi Hack Night slack channel
 
 #data-sci-competition
+
+### Learn Data Science for Social Good Resources
+https://docs.google.com/document/d/1lcSqctBQiqDeb6b--xZ3azPSf7ezoBo_5xkquqEVQnU/edit?usp=sharing
+
+### Meeting note from the group discussion
+- September 18, 2018
+https://docs.google.com/document/d/1ZdtkEMRYgh3waQIMR54nzVmD2vW2W2I8GesOAXidn4Q/edit?usp=sharing
+- September 25, 2018
+https://docs.google.com/document/d/1TYKql4PtIMJVAJ_SxMAZYedjNb3-065Q4IbpLNI9uKw/edit?usp=sharing
+- October 2, 2018
+https://docs.google.com/document/d/1T3B32wWc1mW5cuGuzIMrg8bq7Ipxn_PCShDijbdOdRQ/edit?usp=sharing
+
